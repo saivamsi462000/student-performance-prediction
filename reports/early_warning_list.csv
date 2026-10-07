@@ -1,0 +1,1501 @@
+student_id,risk_probability,predicted_final_score,risk_band,recommended_action
+S101182,1.0,43.5,High,coursework check-in; refer to tutoring; academic advisor meeting
+S100897,1.0,34.7,High,coursework check-in; study-skills workshop; refer to tutoring; academic advisor meeting
+S101013,1.0,40.2,High,attendance outreach; coursework check-in; study-skills workshop; refer to tutoring
+S100693,1.0,42.7,High,coursework check-in; refer to tutoring; academic advisor meeting
+S100658,1.0,43.3,High,attendance outreach; study-skills workshop; academic advisor meeting
+S100029,1.0,44.9,High,coursework check-in; study-skills workshop; academic advisor meeting
+S100988,1.0,41.9,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S101385,1.0,28.3,High,coursework check-in; study-skills workshop; academic advisor meeting
+S101332,1.0,42.3,High,attendance outreach; academic advisor meeting
+S100465,1.0,37.4,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S100545,1.0,43.8,High,coursework check-in; study-skills workshop; academic advisor meeting
+S100512,0.999,46.3,High,refer to tutoring; academic advisor meeting
+S101014,0.999,44.9,High,attendance outreach; refer to tutoring; academic advisor meeting
+S100870,0.999,44.6,High,refer to tutoring; academic advisor meeting
+S100699,0.999,45.3,High,coursework check-in; study-skills workshop; academic advisor meeting
+S100716,0.999,45.3,High,refer to tutoring; academic advisor meeting
+S100541,0.999,46.1,High,attendance outreach; study-skills workshop; refer to tutoring; academic advisor meeting
+S100932,0.998,45.5,High,attendance outreach; coursework check-in; study-skills workshop; refer to tutoring
+S100348,0.998,49.8,High,study-skills workshop; academic advisor meeting
+S101413,0.998,47.9,High,coursework check-in; study-skills workshop; refer to tutoring; academic advisor meeting
+S100376,0.998,48.2,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S101002,0.998,48.8,High,attendance outreach; coursework check-in; study-skills workshop
+S100225,0.998,46.2,High,attendance outreach; coursework check-in; refer to tutoring
+S100090,0.998,48.0,High,attendance outreach; refer to tutoring; academic advisor meeting
+S101071,0.998,47.0,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S100421,0.997,47.4,High,refer to tutoring; academic advisor meeting
+S101037,0.997,47.4,High,coursework check-in; refer to tutoring; academic advisor meeting
+S100377,0.997,47.4,High,coursework check-in; refer to tutoring
+S100977,0.997,48.5,High,attendance outreach; coursework check-in; study-skills workshop; refer to tutoring
+S101116,0.997,48.7,High,attendance outreach; refer to tutoring; academic advisor meeting
+S100555,0.997,49.3,High,attendance outreach; refer to tutoring; academic advisor meeting
+S100300,0.997,48.3,High,attendance outreach; coursework check-in; study-skills workshop; academic advisor meeting
+S100510,0.997,47.4,High,coursework check-in; refer to tutoring
+S101087,0.996,50.4,High,study-skills workshop; refer to tutoring
+S100781,0.996,50.4,High,coursework check-in; study-skills workshop; refer to tutoring; academic advisor meeting
+S101217,0.996,50.9,High,study-skills workshop; academic advisor meeting
+S100045,0.996,49.3,High,coursework check-in; study-skills workshop; refer to tutoring
+S100836,0.996,49.6,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S100493,0.995,50.4,High,attendance outreach; coursework check-in; study-skills workshop; refer to tutoring
+S101079,0.995,48.8,High,attendance outreach; study-skills workshop; academic advisor meeting
+S100808,0.995,50.8,High,refer to tutoring; academic advisor meeting
+S100597,0.995,48.1,High,attendance outreach; refer to tutoring
+S100401,0.995,50.7,High,coursework check-in; study-skills workshop; refer to tutoring
+S100708,0.994,48.9,High,coursework check-in; refer to tutoring; academic advisor meeting
+S100416,0.994,49.1,High,attendance outreach; study-skills workshop; refer to tutoring; academic advisor meeting
+S100066,0.993,50.9,High,attendance outreach; coursework check-in; study-skills workshop
+S100268,0.993,50.8,High,coursework check-in; refer to tutoring
+S100704,0.993,51.1,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S100357,0.992,51.5,High,coursework check-in; study-skills workshop; academic advisor meeting
+S100461,0.992,49.2,High,attendance outreach; refer to tutoring; academic advisor meeting
+S101156,0.992,52.4,High,study-skills workshop
+S101343,0.992,51.9,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S100615,0.992,50.5,High,coursework check-in; study-skills workshop; refer to tutoring; academic advisor meeting
+S100144,0.991,49.8,High,attendance outreach; coursework check-in; refer to tutoring; academic advisor meeting
+S101258,0.991,51.2,High,refer to tutoring; academic advisor meeting
+S100858,0.991,49.4,High,attendance outreach; coursework check-in; study-skills workshop; refer to tutoring
+S101225,0.99,51.9,High,coursework check-in; refer to tutoring; academic advisor meeting
+S100872,0.99,53.3,High,coursework check-in; academic advisor meeting
+S100574,0.99,52.5,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S100221,0.99,52.0,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S101432,0.99,53.0,High,study-skills workshop; academic advisor meeting
+S101238,0.99,50.3,High,coursework check-in; refer to tutoring; academic advisor meeting
+S100944,0.989,51.8,High,refer to tutoring; academic advisor meeting
+S101045,0.989,50.6,High,attendance outreach; coursework check-in; study-skills workshop; refer to tutoring
+S101409,0.988,53.3,High,coursework check-in; study-skills workshop; academic advisor meeting
+S101272,0.988,51.9,High,coursework check-in; study-skills workshop; refer to tutoring
+S100677,0.988,50.4,High,attendance outreach; study-skills workshop; refer to tutoring; academic advisor meeting
+S100809,0.988,54.2,High,coursework check-in; study-skills workshop; refer to tutoring
+S100186,0.987,51.6,High,attendance outreach; coursework check-in; academic advisor meeting
+S100122,0.987,52.5,High,study-skills workshop
+S100278,0.987,52.5,High,attendance outreach; coursework check-in; study-skills workshop
+S100976,0.986,51.3,High,attendance outreach; refer to tutoring
+S100274,0.986,51.2,High,attendance outreach; refer to tutoring
+S100900,0.984,51.0,High,attendance outreach; refer to tutoring; academic advisor meeting
+S101389,0.983,55.7,High,study-skills workshop; academic advisor meeting
+S100721,0.983,54.2,High,coursework check-in; study-skills workshop; refer to tutoring; academic advisor meeting
+S101051,0.983,53.4,High,refer to tutoring; academic advisor meeting
+S101115,0.983,52.6,High,study-skills workshop; academic advisor meeting
+S100334,0.983,52.2,High,attendance outreach; study-skills workshop; refer to tutoring; academic advisor meeting
+S100411,0.982,53.2,High,coursework check-in; study-skills workshop
+S100091,0.981,52.6,High,coursework check-in
+S101095,0.981,51.7,High,coursework check-in; study-skills workshop; refer to tutoring
+S100235,0.981,53.3,High,coursework check-in; study-skills workshop; refer to tutoring
+S100468,0.98,55.2,High,study-skills workshop
+S100041,0.979,53.9,High,coursework check-in; refer to tutoring; academic advisor meeting
+S100631,0.979,54.1,High,refer to tutoring; academic advisor meeting
+S100552,0.978,54.2,High,refer to tutoring; academic advisor meeting
+S100894,0.977,55.6,High,monitor
+S100337,0.977,54.1,High,refer to tutoring; academic advisor meeting
+S101126,0.976,52.4,High,attendance outreach; study-skills workshop; refer to tutoring
+S100702,0.976,52.6,High,attendance outreach; study-skills workshop; refer to tutoring
+S100957,0.976,52.9,High,attendance outreach; coursework check-in; refer to tutoring
+S100954,0.976,54.9,High,study-skills workshop; academic advisor meeting
+S100326,0.975,51.5,High,attendance outreach; study-skills workshop; refer to tutoring
+S101421,0.975,53.6,High,attendance outreach; coursework check-in; study-skills workshop; refer to tutoring
+S100406,0.975,54.1,High,coursework check-in; study-skills workshop; refer to tutoring; academic advisor meeting
+S101330,0.974,56.1,High,study-skills workshop; academic advisor meeting
+S101277,0.973,53.8,High,coursework check-in; study-skills workshop; refer to tutoring
+S101019,0.973,55.3,High,coursework check-in; study-skills workshop; academic advisor meeting
+S101313,0.973,54.0,High,study-skills workshop; refer to tutoring
+S101484,0.973,54.1,High,coursework check-in; refer to tutoring
+S100227,0.973,53.3,High,refer to tutoring; academic advisor meeting
+S101427,0.971,54.6,High,coursework check-in; study-skills workshop; refer to tutoring
+S100779,0.971,53.6,High,refer to tutoring
+S100625,0.97,52.4,High,attendance outreach; coursework check-in; study-skills workshop; refer to tutoring
+S100000,0.97,53.5,High,study-skills workshop; refer to tutoring
+S100441,0.97,52.1,High,attendance outreach; refer to tutoring
+S100111,0.969,54.2,High,attendance outreach; coursework check-in; study-skills workshop; refer to tutoring
+S101481,0.969,53.8,High,coursework check-in; refer to tutoring; academic advisor meeting
+S101315,0.967,54.6,High,attendance outreach; study-skills workshop; refer to tutoring
+S100410,0.966,54.4,High,refer to tutoring
+S101451,0.966,54.1,High,refer to tutoring; academic advisor meeting
+S100035,0.965,53.1,High,attendance outreach; study-skills workshop; refer to tutoring
+S100582,0.965,55.4,High,coursework check-in; academic advisor meeting
+S100637,0.965,55.8,High,coursework check-in; academic advisor meeting
+S101255,0.964,55.4,High,study-skills workshop
+S100521,0.963,54.8,High,refer to tutoring
+S100289,0.961,56.7,High,academic advisor meeting
+S101177,0.961,53.4,High,attendance outreach; coursework check-in; refer to tutoring; academic advisor meeting
+S100534,0.961,56.3,High,coursework check-in; academic advisor meeting
+S100801,0.959,54.1,High,refer to tutoring
+S101310,0.959,55.7,High,coursework check-in; study-skills workshop; refer to tutoring
+S100697,0.958,56.7,High,study-skills workshop
+S101415,0.957,54.2,High,attendance outreach; refer to tutoring
+S100958,0.957,56.2,High,refer to tutoring; academic advisor meeting
+S100722,0.957,54.9,High,refer to tutoring; academic advisor meeting
+S100824,0.957,55.4,High,refer to tutoring; academic advisor meeting
+S101491,0.957,53.9,High,attendance outreach; coursework check-in; study-skills workshop
+S101094,0.957,55.6,High,attendance outreach
+S101033,0.956,56.3,High,refer to tutoring; academic advisor meeting
+S101122,0.956,57.1,High,academic advisor meeting
+S101419,0.954,55.1,High,refer to tutoring; academic advisor meeting
+S100564,0.953,55.0,High,attendance outreach; coursework check-in; study-skills workshop; refer to tutoring
+S100054,0.952,55.6,High,coursework check-in; refer to tutoring
+S100115,0.951,55.6,High,coursework check-in; refer to tutoring
+S100131,0.951,54.1,High,refer to tutoring; academic advisor meeting
+S101431,0.951,56.6,High,coursework check-in
+S100785,0.95,55.9,High,attendance outreach; coursework check-in
+S101074,0.949,55.5,High,attendance outreach; coursework check-in; refer to tutoring; academic advisor meeting
+S100885,0.949,55.0,High,refer to tutoring; academic advisor meeting
+S101323,0.948,53.9,High,refer to tutoring
+S101283,0.946,57.8,High,study-skills workshop; refer to tutoring
+S100330,0.945,56.2,High,refer to tutoring
+S101080,0.944,55.2,High,coursework check-in; refer to tutoring
+S100382,0.944,54.5,High,attendance outreach; refer to tutoring
+S100025,0.943,56.6,High,monitor
+S101193,0.942,55.9,High,academic advisor meeting
+S101245,0.941,58.0,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S100404,0.941,57.3,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S100496,0.94,57.5,High,monitor
+S101218,0.94,57.5,High,study-skills workshop
+S100575,0.94,55.8,High,attendance outreach; study-skills workshop; refer to tutoring
+S101003,0.939,55.8,High,coursework check-in; study-skills workshop; refer to tutoring; academic advisor meeting
+S100439,0.939,55.5,High,attendance outreach; coursework check-in; refer to tutoring
+S100910,0.938,56.8,High,coursework check-in; academic advisor meeting
+S100065,0.938,55.5,High,study-skills workshop; refer to tutoring
+S101325,0.937,57.3,High,refer to tutoring
+S100321,0.936,54.1,High,attendance outreach; coursework check-in; refer to tutoring
+S100852,0.935,56.8,High,refer to tutoring
+S100286,0.935,57.5,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S101388,0.934,56.1,High,refer to tutoring; academic advisor meeting
+S100619,0.932,55.6,High,attendance outreach; coursework check-in; study-skills workshop
+S101397,0.931,57.5,High,study-skills workshop; refer to tutoring
+S100679,0.93,56.5,High,study-skills workshop; refer to tutoring
+S100827,0.929,55.5,High,attendance outreach; coursework check-in; refer to tutoring
+S100165,0.928,55.4,High,study-skills workshop; refer to tutoring
+S100089,0.927,56.4,High,attendance outreach; refer to tutoring; academic advisor meeting
+S100936,0.927,57.0,High,refer to tutoring; academic advisor meeting
+S100296,0.925,57.4,High,coursework check-in
+S100490,0.923,56.8,High,attendance outreach; coursework check-in; study-skills workshop; refer to tutoring
+S101354,0.923,55.3,High,attendance outreach; refer to tutoring
+S101015,0.92,56.0,High,study-skills workshop; refer to tutoring
+S100057,0.92,55.6,High,study-skills workshop; refer to tutoring
+S100577,0.919,56.8,High,attendance outreach
+S100152,0.916,57.7,High,attendance outreach; coursework check-in; refer to tutoring
+S100141,0.916,57.9,High,coursework check-in; study-skills workshop; refer to tutoring
+S101265,0.916,56.3,High,attendance outreach; refer to tutoring; academic advisor meeting
+S101201,0.915,59.7,High,coursework check-in; study-skills workshop; refer to tutoring
+S101068,0.915,56.7,High,attendance outreach; refer to tutoring
+S100758,0.914,57.4,High,study-skills workshop; refer to tutoring
+S100540,0.912,58.9,High,monitor
+S100201,0.911,56.5,High,coursework check-in; study-skills workshop; refer to tutoring
+S100429,0.911,57.5,High,refer to tutoring
+S100020,0.908,61.0,High,academic advisor meeting
+S100939,0.906,57.9,High,attendance outreach; coursework check-in; academic advisor meeting
+S100106,0.905,56.0,High,refer to tutoring; academic advisor meeting
+S100743,0.904,58.7,High,study-skills workshop; refer to tutoring
+S100922,0.904,58.2,High,coursework check-in; study-skills workshop; refer to tutoring
+S101459,0.901,56.7,High,attendance outreach; coursework check-in; refer to tutoring
+S101107,0.899,57.2,High,refer to tutoring; academic advisor meeting
+S100255,0.896,56.1,High,refer to tutoring; academic advisor meeting
+S100048,0.895,59.2,High,study-skills workshop
+S101329,0.895,57.2,High,academic advisor meeting
+S100553,0.895,56.2,High,refer to tutoring
+S100876,0.894,56.8,High,attendance outreach; coursework check-in; refer to tutoring
+S100109,0.894,57.8,High,study-skills workshop; refer to tutoring
+S100007,0.893,56.4,High,attendance outreach; coursework check-in; refer to tutoring
+S100532,0.893,57.7,High,coursework check-in; study-skills workshop; refer to tutoring
+S100281,0.893,56.2,High,study-skills workshop; refer to tutoring
+S100850,0.891,57.7,High,refer to tutoring; academic advisor meeting
+S100327,0.889,57.9,High,study-skills workshop
+S101295,0.888,57.2,High,study-skills workshop; refer to tutoring
+S101302,0.888,60.2,High,academic advisor meeting
+S100240,0.887,59.3,High,refer to tutoring; academic advisor meeting
+S101282,0.886,56.6,High,refer to tutoring; academic advisor meeting
+S100224,0.886,56.6,High,attendance outreach; coursework check-in; refer to tutoring
+S100962,0.886,58.4,High,academic advisor meeting
+S100956,0.885,58.9,High,study-skills workshop; refer to tutoring
+S101076,0.884,60.3,High,attendance outreach; study-skills workshop
+S100653,0.884,58.6,High,coursework check-in; study-skills workshop; refer to tutoring
+S101154,0.881,57.4,High,attendance outreach; refer to tutoring; academic advisor meeting
+S100788,0.881,58.2,High,refer to tutoring
+S100108,0.879,58.9,High,refer to tutoring
+S100920,0.878,58.3,High,study-skills workshop; refer to tutoring
+S100038,0.876,59.7,High,study-skills workshop
+S100050,0.876,59.7,High,study-skills workshop
+S100529,0.876,59.5,High,study-skills workshop
+S100298,0.876,57.6,High,study-skills workshop; refer to tutoring
+S100173,0.874,59.6,High,study-skills workshop
+S100768,0.872,57.3,High,attendance outreach; coursework check-in; refer to tutoring
+S100161,0.871,57.3,High,coursework check-in; refer to tutoring
+S100828,0.87,57.7,High,study-skills workshop; refer to tutoring
+S100898,0.867,57.9,High,coursework check-in; refer to tutoring
+S100127,0.867,59.2,High,academic advisor meeting
+S101273,0.866,57.2,High,attendance outreach; coursework check-in
+S101052,0.866,58.5,High,attendance outreach; study-skills workshop; refer to tutoring
+S100202,0.865,58.1,High,attendance outreach; coursework check-in
+S100435,0.864,57.7,High,refer to tutoring
+S101318,0.861,57.6,High,refer to tutoring; academic advisor meeting
+S100218,0.86,59.0,High,coursework check-in; study-skills workshop; refer to tutoring
+S100593,0.859,57.2,High,coursework check-in; refer to tutoring
+S101125,0.859,60.0,High,study-skills workshop; academic advisor meeting
+S100394,0.857,58.6,High,coursework check-in; refer to tutoring
+S101246,0.855,58.4,High,study-skills workshop; refer to tutoring
+S101022,0.854,58.7,High,study-skills workshop; refer to tutoring
+S101235,0.854,58.2,High,refer to tutoring
+S101312,0.853,59.1,High,attendance outreach; academic advisor meeting
+S100912,0.853,57.7,High,attendance outreach; refer to tutoring
+S100434,0.852,57.3,High,refer to tutoring
+S101044,0.851,57.9,High,coursework check-in; refer to tutoring
+S101376,0.85,58.9,High,refer to tutoring
+S101347,0.85,58.8,High,attendance outreach; refer to tutoring
+S100983,0.85,58.5,High,refer to tutoring
+S100993,0.848,57.0,High,refer to tutoring
+S100995,0.846,57.2,High,attendance outreach; refer to tutoring
+S100047,0.846,60.9,High,monitor
+S101164,0.844,61.6,High,study-skills workshop
+S101488,0.843,61.0,High,study-skills workshop
+S100948,0.843,59.6,High,attendance outreach
+S100728,0.842,59.7,High,coursework check-in; refer to tutoring
+S100121,0.842,59.2,High,coursework check-in; study-skills workshop; refer to tutoring
+S101124,0.842,58.8,High,attendance outreach; coursework check-in; refer to tutoring
+S101371,0.841,58.2,High,refer to tutoring
+S101316,0.84,59.1,High,coursework check-in
+S100650,0.839,56.4,High,attendance outreach; coursework check-in; refer to tutoring
+S101109,0.837,60.9,High,academic advisor meeting
+S100183,0.835,59.6,High,study-skills workshop; academic advisor meeting
+S100797,0.835,60.4,High,refer to tutoring
+S100620,0.834,59.3,High,study-skills workshop; refer to tutoring
+S100742,0.832,61.1,High,study-skills workshop
+S100346,0.831,59.4,High,attendance outreach; academic advisor meeting
+S100656,0.829,59.1,High,study-skills workshop; refer to tutoring
+S101410,0.828,57.3,High,study-skills workshop; refer to tutoring
+S101072,0.825,57.9,High,attendance outreach; coursework check-in; refer to tutoring; academic advisor meeting
+S100336,0.822,61.3,High,refer to tutoring
+S100866,0.821,60.4,High,attendance outreach
+S100352,0.821,58.0,High,study-skills workshop; refer to tutoring
+S101092,0.82,58.8,High,refer to tutoring
+S100156,0.82,60.3,High,study-skills workshop
+S100297,0.819,58.8,High,attendance outreach; refer to tutoring
+S100169,0.819,60.0,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S100079,0.817,59.0,High,refer to tutoring
+S101429,0.816,60.1,High,academic advisor meeting
+S101149,0.815,59.2,High,study-skills workshop; refer to tutoring
+S100299,0.814,58.0,High,study-skills workshop; refer to tutoring
+S101030,0.814,57.7,High,attendance outreach; refer to tutoring
+S101036,0.811,60.9,High,study-skills workshop
+S101039,0.81,59.7,High,coursework check-in
+S101157,0.81,59.1,High,refer to tutoring; academic advisor meeting
+S100867,0.807,59.4,High,refer to tutoring; academic advisor meeting
+S100197,0.806,60.2,High,study-skills workshop; refer to tutoring; academic advisor meeting
+S100283,0.805,61.3,High,academic advisor meeting
+S100608,0.805,59.8,High,coursework check-in; refer to tutoring
+S100502,0.804,59.1,High,coursework check-in; study-skills workshop; refer to tutoring
+S100881,0.804,60.7,High,study-skills workshop
+S101445,0.802,60.1,High,coursework check-in; study-skills workshop; refer to tutoring
+S100196,0.801,59.7,High,coursework check-in; refer to tutoring
+S100638,0.799,60.5,High,coursework check-in; study-skills workshop; refer to tutoring
+S100062,0.797,60.3,High,attendance outreach; study-skills workshop
+S101158,0.797,59.4,High,attendance outreach; coursework check-in; academic advisor meeting
+S100071,0.796,58.7,High,refer to tutoring
+S101203,0.796,58.9,High,refer to tutoring
+S101455,0.795,60.4,High,study-skills workshop; refer to tutoring
+S100163,0.795,59.2,High,coursework check-in; refer to tutoring
+S100776,0.794,58.7,High,study-skills workshop; refer to tutoring
+S100579,0.792,58.6,High,attendance outreach; refer to tutoring
+S100596,0.792,62.7,High,monitor
+S100689,0.792,58.0,High,refer to tutoring; academic advisor meeting
+S100846,0.791,58.5,High,attendance outreach; coursework check-in; refer to tutoring
+S100694,0.79,58.9,High,refer to tutoring; academic advisor meeting
+S100282,0.79,59.2,High,refer to tutoring
+S100292,0.789,61.1,High,monitor
+S101244,0.789,59.3,High,coursework check-in; refer to tutoring
+S100246,0.787,59.3,High,study-skills workshop; refer to tutoring
+S100295,0.784,60.1,High,coursework check-in
+S101213,0.784,58.9,High,refer to tutoring
+S101471,0.784,58.9,High,refer to tutoring
+S101086,0.78,60.8,High,study-skills workshop
+S100833,0.775,58.5,High,coursework check-in; refer to tutoring
+S100971,0.773,60.8,High,coursework check-in; study-skills workshop
+S100040,0.772,60.6,High,study-skills workshop; refer to tutoring
+S100258,0.771,59.5,High,attendance outreach; coursework check-in; refer to tutoring
+S100478,0.768,61.7,High,study-skills workshop; refer to tutoring
+S100252,0.766,59.3,High,study-skills workshop; refer to tutoring
+S100569,0.764,60.6,High,refer to tutoring; academic advisor meeting
+S101438,0.764,58.8,High,attendance outreach; study-skills workshop; refer to tutoring
+S101038,0.763,62.5,High,study-skills workshop
+S100964,0.762,61.3,High,study-skills workshop
+S100250,0.761,59.8,High,academic advisor meeting
+S100139,0.76,61.6,High,refer to tutoring; academic advisor meeting
+S100913,0.76,60.0,High,attendance outreach; coursework check-in; refer to tutoring
+S101026,0.76,58.4,High,attendance outreach; coursework check-in; refer to tutoring
+S100548,0.759,61.1,High,coursework check-in
+S100424,0.759,60.2,High,coursework check-in; study-skills workshop; refer to tutoring
+S100856,0.756,60.3,High,attendance outreach; study-skills workshop; refer to tutoring
+S100875,0.755,61.1,High,refer to tutoring; academic advisor meeting
+S100124,0.752,61.1,High,refer to tutoring; academic advisor meeting
+S101460,0.752,62.6,High,monitor
+S100311,0.752,59.7,High,attendance outreach; refer to tutoring
+S100217,0.75,60.6,High,refer to tutoring; academic advisor meeting
+S100966,0.749,60.3,High,attendance outreach; academic advisor meeting
+S101475,0.748,60.4,High,attendance outreach
+S101266,0.745,61.5,High,study-skills workshop; refer to tutoring
+S100891,0.745,59.4,High,coursework check-in; refer to tutoring
+S100884,0.742,61.0,High,attendance outreach
+S100652,0.742,60.4,High,study-skills workshop; refer to tutoring
+S100018,0.739,60.3,High,attendance outreach; coursework check-in; refer to tutoring
+S101020,0.736,60.3,High,refer to tutoring
+S100395,0.732,61.5,High,study-skills workshop; refer to tutoring
+S101136,0.732,59.6,High,monitor
+S100248,0.727,59.5,High,study-skills workshop; refer to tutoring
+S100805,0.727,60.8,High,monitor
+S100072,0.724,62.2,High,monitor
+S100237,0.715,61.9,High,attendance outreach
+S101284,0.712,61.1,High,study-skills workshop; refer to tutoring
+S101106,0.709,62.1,High,monitor
+S101493,0.702,61.1,High,refer to tutoring
+S101024,0.702,62.5,High,attendance outreach; academic advisor meeting
+S101257,0.701,63.4,High,study-skills workshop
+S100344,0.698,63.3,High,study-skills workshop
+S100617,0.698,60.8,High,study-skills workshop; refer to tutoring
+S101152,0.698,59.2,High,study-skills workshop; refer to tutoring
+S100088,0.695,62.1,High,academic advisor meeting
+S101247,0.694,60.8,High,attendance outreach; refer to tutoring
+S100486,0.694,60.3,High,refer to tutoring
+S101084,0.692,59.4,High,coursework check-in; refer to tutoring; academic advisor meeting
+S101262,0.69,60.1,High,coursework check-in; study-skills workshop
+S101339,0.69,59.9,High,attendance outreach; refer to tutoring
+S100562,0.688,61.5,High,monitor
+S100491,0.688,61.5,High,study-skills workshop; refer to tutoring
+S101358,0.684,59.9,High,attendance outreach; refer to tutoring
+S100614,0.684,63.8,High,study-skills workshop
+S101433,0.683,61.1,High,coursework check-in; refer to tutoring
+S100764,0.683,62.9,High,refer to tutoring; academic advisor meeting
+S101195,0.682,60.1,High,attendance outreach; coursework check-in
+S101004,0.681,61.9,High,academic advisor meeting
+S101021,0.68,61.5,High,study-skills workshop; refer to tutoring
+S100049,0.678,62.0,High,attendance outreach
+S100515,0.678,62.9,High,attendance outreach
+S101102,0.678,60.1,High,refer to tutoring
+S101278,0.677,60.6,High,academic advisor meeting
+S100063,0.674,60.7,High,refer to tutoring
+S100527,0.672,61.4,High,attendance outreach; refer to tutoring
+S100028,0.668,61.8,High,refer to tutoring
+S101005,0.667,61.5,High,coursework check-in; refer to tutoring
+S100358,0.666,61.0,High,refer to tutoring
+S100418,0.665,61.6,High,study-skills workshop; refer to tutoring
+S101161,0.664,60.6,High,refer to tutoring
+S101353,0.662,60.9,High,attendance outreach; coursework check-in
+S100609,0.662,61.3,High,coursework check-in; refer to tutoring
+S100975,0.661,64.6,High,study-skills workshop
+S100469,0.66,63.2,High,coursework check-in
+S101472,0.655,60.9,High,coursework check-in; refer to tutoring
+S100438,0.655,62.1,High,attendance outreach; study-skills workshop
+S100750,0.655,61.5,High,attendance outreach; refer to tutoring
+S101368,0.654,60.9,High,refer to tutoring
+S100855,0.654,61.3,High,coursework check-in; study-skills workshop; refer to tutoring
+S101048,0.654,61.1,High,coursework check-in; refer to tutoring
+S100228,0.651,61.5,High,attendance outreach
+S101317,0.65,61.8,High,attendance outreach; coursework check-in; study-skills workshop
+S100158,0.647,63.3,High,monitor
+S100113,0.643,60.5,High,attendance outreach; refer to tutoring
+S101478,0.641,61.6,High,refer to tutoring
+S100046,0.637,60.4,High,coursework check-in; refer to tutoring
+S101140,0.635,60.8,High,attendance outreach; study-skills workshop
+S100649,0.634,66.2,High,monitor
+S100188,0.632,60.3,High,study-skills workshop; refer to tutoring
+S101075,0.63,60.5,High,coursework check-in; refer to tutoring
+S100970,0.63,61.0,High,refer to tutoring
+S101463,0.625,60.9,High,refer to tutoring
+S100746,0.623,62.5,High,coursework check-in
+S101050,0.621,61.0,High,refer to tutoring
+S100479,0.621,62.5,High,coursework check-in
+S100499,0.62,62.0,High,refer to tutoring
+S100265,0.62,63.7,High,monitor
+S100613,0.619,61.7,High,refer to tutoring
+S100636,0.619,62.2,High,monitor
+S100651,0.618,63.8,High,coursework check-in; study-skills workshop
+S100893,0.618,62.5,High,academic advisor meeting
+S100644,0.618,62.4,High,refer to tutoring; academic advisor meeting
+S100096,0.615,61.0,High,attendance outreach; refer to tutoring
+S100840,0.613,62.8,High,attendance outreach; coursework check-in
+S100851,0.611,61.7,High,refer to tutoring
+S100739,0.61,64.2,High,study-skills workshop; refer to tutoring
+S100812,0.609,63.7,High,coursework check-in
+S101331,0.609,62.3,High,refer to tutoring
+S101363,0.608,60.9,High,coursework check-in; refer to tutoring
+S101260,0.605,61.7,High,coursework check-in; refer to tutoring
+S101457,0.602,60.9,High,attendance outreach; refer to tutoring
+S101492,0.601,62.8,High,monitor
+S100676,0.601,62.4,High,refer to tutoring
+S100918,0.596,64.8,Medium,refer to tutoring
+S100402,0.592,62.3,Medium,study-skills workshop
+S100074,0.592,63.0,Medium,attendance outreach
+S100643,0.591,60.7,Medium,attendance outreach; coursework check-in; study-skills workshop; refer to tutoring
+S100370,0.589,63.3,Medium,coursework check-in
+S101378,0.587,65.4,Medium,academic advisor meeting
+S101346,0.587,62.1,Medium,study-skills workshop
+S101373,0.584,63.4,Medium,study-skills workshop; refer to tutoring
+S100612,0.584,61.0,Medium,monitor
+S100350,0.584,63.1,Medium,monitor
+S101025,0.584,62.3,Medium,coursework check-in; academic advisor meeting
+S100526,0.578,62.0,Medium,refer to tutoring
+S101390,0.575,61.8,Medium,refer to tutoring
+S100714,0.572,64.0,Medium,academic advisor meeting
+S100864,0.57,61.2,Medium,attendance outreach; academic advisor meeting
+S101059,0.569,63.7,Medium,monitor
+S100396,0.568,61.3,Medium,attendance outreach; coursework check-in; refer to tutoring
+S101198,0.562,64.3,Medium,academic advisor meeting
+S101490,0.562,62.2,Medium,refer to tutoring
+S100719,0.56,64.0,Medium,academic advisor meeting
+S100457,0.56,63.1,Medium,attendance outreach
+S100206,0.56,64.8,Medium,coursework check-in; study-skills workshop
+S101382,0.558,62.9,Medium,refer to tutoring
+S100145,0.555,60.7,Medium,refer to tutoring
+S100700,0.553,66.9,Medium,academic advisor meeting
+S101099,0.553,62.5,Medium,coursework check-in; refer to tutoring
+S100452,0.55,62.6,Medium,study-skills workshop; refer to tutoring
+S100179,0.55,62.7,Medium,study-skills workshop; refer to tutoring
+S100102,0.549,63.5,Medium,study-skills workshop
+S100085,0.549,62.6,Medium,study-skills workshop; refer to tutoring
+S101380,0.548,63.6,Medium,refer to tutoring
+S100051,0.545,62.1,Medium,study-skills workshop; refer to tutoring
+S101183,0.544,61.5,Medium,study-skills workshop; refer to tutoring
+S100710,0.544,63.9,Medium,study-skills workshop
+S100119,0.543,63.5,Medium,study-skills workshop; refer to tutoring
+S100941,0.542,61.8,Medium,refer to tutoring
+S100176,0.54,63.5,Medium,refer to tutoring
+S100769,0.54,63.0,Medium,coursework check-in; study-skills workshop
+S100791,0.537,63.6,Medium,coursework check-in; study-skills workshop
+S100942,0.535,61.5,Medium,attendance outreach; study-skills workshop
+S101412,0.535,62.7,Medium,attendance outreach; refer to tutoring
+S100982,0.534,63.8,Medium,monitor
+S100209,0.531,61.9,Medium,attendance outreach
+S100639,0.531,62.7,Medium,study-skills workshop; refer to tutoring
+S101296,0.529,60.4,Medium,attendance outreach; coursework check-in; refer to tutoring
+S100709,0.529,64.6,Medium,study-skills workshop
+S101151,0.528,61.5,Medium,attendance outreach; refer to tutoring
+S101305,0.527,62.0,Medium,attendance outreach; coursework check-in; refer to tutoring
+S100547,0.527,62.6,Medium,study-skills workshop; refer to tutoring
+S101237,0.527,63.9,Medium,study-skills workshop
+S101056,0.524,62.0,Medium,refer to tutoring
+S100362,0.524,64.0,Medium,study-skills workshop
+S101066,0.522,64.1,Medium,coursework check-in; study-skills workshop
+S100999,0.521,63.1,Medium,attendance outreach; coursework check-in
+S100760,0.52,61.5,Medium,attendance outreach; coursework check-in
+S100399,0.519,61.3,Medium,refer to tutoring
+S100686,0.518,63.3,Medium,study-skills workshop; refer to tutoring
+S100759,0.517,64.3,Medium,academic advisor meeting
+S100013,0.517,63.0,Medium,refer to tutoring
+S101231,0.517,63.2,Medium,refer to tutoring
+S101435,0.516,61.6,Medium,attendance outreach
+S100862,0.516,62.6,Medium,refer to tutoring
+S100573,0.512,63.5,Medium,refer to tutoring; academic advisor meeting
+S100125,0.51,63.7,Medium,attendance outreach
+S100606,0.51,61.5,Medium,refer to tutoring; academic advisor meeting
+S101303,0.51,64.1,Medium,monitor
+S100210,0.507,62.9,Medium,refer to tutoring; academic advisor meeting
+S101473,0.506,63.9,Medium,study-skills workshop
+S101227,0.506,64.1,Medium,refer to tutoring
+S100166,0.505,63.2,Medium,study-skills workshop; refer to tutoring
+S100773,0.503,62.5,Medium,refer to tutoring
+S100778,0.503,63.6,Medium,refer to tutoring; academic advisor meeting
+S101423,0.502,62.6,Medium,refer to tutoring
+S100211,0.498,64.2,Medium,study-skills workshop
+S101326,0.498,63.7,Medium,refer to tutoring
+S101098,0.497,64.0,Medium,study-skills workshop; refer to tutoring
+S100622,0.496,64.2,Medium,academic advisor meeting
+S100749,0.494,64.0,Medium,monitor
+S100634,0.493,63.7,Medium,coursework check-in; study-skills workshop
+S101362,0.493,62.1,Medium,coursework check-in; refer to tutoring
+S100731,0.491,65.3,Medium,academic advisor meeting
+S101425,0.488,64.3,Medium,monitor
+S101000,0.488,66.0,Medium,coursework check-in
+S100928,0.487,63.0,Medium,refer to tutoring
+S100626,0.486,62.3,Medium,monitor
+S101307,0.485,60.7,Medium,attendance outreach; coursework check-in
+S101426,0.484,63.0,Medium,refer to tutoring
+S101416,0.484,64.2,Medium,coursework check-in
+S100390,0.484,63.9,Medium,coursework check-in; study-skills workshop
+S100874,0.482,62.8,Medium,attendance outreach
+S100504,0.482,64.1,Medium,study-skills workshop; refer to tutoring
+S100782,0.48,62.5,Medium,monitor
+S100659,0.48,63.8,Medium,study-skills workshop
+S100696,0.48,65.5,Medium,study-skills workshop; refer to tutoring
+S100475,0.479,64.3,Medium,study-skills workshop; refer to tutoring
+S101007,0.478,63.7,Medium,coursework check-in
+S101274,0.475,63.2,Medium,study-skills workshop
+S101290,0.474,63.6,Medium,coursework check-in; study-skills workshop
+S101465,0.473,64.3,Medium,monitor
+S100711,0.47,63.9,Medium,monitor
+S101169,0.469,64.2,Medium,study-skills workshop
+S100199,0.468,63.2,Medium,study-skills workshop
+S101163,0.467,63.3,Medium,refer to tutoring
+S100989,0.465,65.2,Medium,study-skills workshop
+S100284,0.462,62.4,Medium,attendance outreach
+S100861,0.459,62.9,Medium,refer to tutoring
+S101170,0.456,63.8,Medium,attendance outreach
+S100495,0.456,62.3,Medium,attendance outreach; refer to tutoring
+S100602,0.456,64.6,Medium,study-skills workshop
+S101178,0.455,62.7,Medium,attendance outreach; refer to tutoring
+S100943,0.454,61.9,Medium,refer to tutoring
+S100630,0.447,63.7,Medium,study-skills workshop; refer to tutoring
+S100359,0.447,63.1,Medium,attendance outreach; refer to tutoring
+S100497,0.447,63.3,Medium,study-skills workshop
+S100420,0.442,63.3,Medium,monitor
+S100513,0.44,64.1,Medium,monitor
+S100841,0.435,64.2,Medium,attendance outreach; academic advisor meeting
+S101377,0.433,64.7,Medium,monitor
+S100027,0.431,65.9,Medium,study-skills workshop
+S101202,0.43,67.2,Medium,coursework check-in
+S100923,0.429,65.3,Medium,refer to tutoring
+S101407,0.427,63.5,Medium,refer to tutoring
+S100685,0.427,64.6,Medium,refer to tutoring
+S100192,0.418,65.0,Medium,study-skills workshop
+S100551,0.418,63.6,Medium,refer to tutoring
+S101174,0.408,64.3,Medium,attendance outreach; coursework check-in
+S100501,0.407,63.8,Medium,attendance outreach; coursework check-in; refer to tutoring
+S100205,0.406,62.6,Medium,coursework check-in
+S100189,0.406,63.6,Medium,refer to tutoring
+S101224,0.406,63.0,Medium,study-skills workshop
+S101168,0.405,64.1,Medium,refer to tutoring
+S100725,0.404,66.8,Medium,study-skills workshop
+S100272,0.402,65.8,Medium,coursework check-in
+S101309,0.402,64.6,Medium,monitor
+S100426,0.401,67.3,Medium,study-skills workshop
+S100741,0.401,66.2,Medium,study-skills workshop
+S100550,0.4,63.9,Medium,study-skills workshop; refer to tutoring
+S100745,0.397,66.6,Medium,monitor
+S101054,0.397,65.7,Medium,monitor
+S101497,0.396,65.4,Medium,refer to tutoring
+S101060,0.395,63.9,Medium,refer to tutoring
+S100952,0.393,67.1,Medium,study-skills workshop
+S100567,0.392,64.1,Medium,study-skills workshop
+S101375,0.39,64.7,Medium,coursework check-in; study-skills workshop
+S100511,0.39,65.9,Medium,study-skills workshop; refer to tutoring
+S100143,0.39,64.1,Medium,refer to tutoring
+S100525,0.385,62.6,Medium,attendance outreach; refer to tutoring
+S100546,0.385,65.3,Medium,academic advisor meeting
+S101453,0.385,63.8,Medium,refer to tutoring
+S100099,0.384,65.8,Medium,refer to tutoring
+S100052,0.384,65.1,Medium,coursework check-in
+S100262,0.381,66.7,Medium,study-skills workshop; refer to tutoring
+S100678,0.379,65.1,Medium,monitor
+S101288,0.376,64.1,Medium,refer to tutoring
+S100959,0.372,63.0,Medium,monitor
+S100488,0.371,65.5,Medium,study-skills workshop
+S101028,0.37,63.1,Medium,refer to tutoring
+S100723,0.37,64.8,Medium,monitor
+S101082,0.369,65.0,Medium,attendance outreach; refer to tutoring
+S100083,0.368,65.8,Medium,coursework check-in
+S100087,0.365,63.9,Medium,study-skills workshop
+S100945,0.36,65.7,Medium,study-skills workshop
+S100398,0.36,64.0,Medium,attendance outreach; coursework check-in; refer to tutoring
+S100770,0.359,64.5,Medium,attendance outreach
+S100794,0.348,64.5,Medium,refer to tutoring
+S100149,0.348,64.9,Medium,study-skills workshop; refer to tutoring
+S100755,0.346,66.3,Medium,coursework check-in; academic advisor meeting
+S101370,0.344,64.6,Medium,attendance outreach; coursework check-in; study-skills workshop
+S100963,0.343,64.9,Medium,refer to tutoring; academic advisor meeting
+S101464,0.342,65.5,Medium,monitor
+S100916,0.337,66.2,Medium,attendance outreach
+S100859,0.336,66.3,Medium,monitor
+S100882,0.334,67.0,Medium,coursework check-in
+S100450,0.334,64.7,Medium,refer to tutoring
+S101365,0.334,66.0,Medium,coursework check-in
+S101043,0.333,66.3,Medium,monitor
+S100455,0.333,64.8,Medium,refer to tutoring
+S100774,0.332,63.9,Medium,study-skills workshop
+S101394,0.329,63.6,Medium,attendance outreach; study-skills workshop; refer to tutoring
+S100331,0.329,65.0,Medium,study-skills workshop
+S100140,0.328,67.0,Medium,coursework check-in
+S100016,0.328,66.0,Medium,monitor
+S100112,0.327,66.8,Medium,study-skills workshop
+S101356,0.323,64.0,Medium,monitor
+S100549,0.321,65.5,Medium,coursework check-in
+S100487,0.321,64.4,Medium,attendance outreach; study-skills workshop
+S101142,0.32,66.7,Medium,academic advisor meeting
+S100259,0.316,64.6,Medium,attendance outreach; refer to tutoring
+S101128,0.315,65.6,Medium,monitor
+S100803,0.315,64.7,Medium,attendance outreach
+S100784,0.314,66.6,Medium,monitor
+S100538,0.313,67.5,Medium,study-skills workshop
+S100053,0.313,66.0,Medium,attendance outreach
+S101160,0.313,65.7,Medium,academic advisor meeting
+S100737,0.311,65.5,Medium,refer to tutoring
+S101207,0.309,66.9,Medium,monitor
+S101113,0.306,65.3,Medium,coursework check-in
+S100978,0.304,64.1,Medium,attendance outreach; refer to tutoring
+S100251,0.304,64.3,Medium,attendance outreach; coursework check-in; refer to tutoring
+S100848,0.303,67.4,Medium,study-skills workshop
+S101101,0.303,66.2,Medium,attendance outreach; coursework check-in
+S100777,0.302,64.6,Medium,study-skills workshop
+S101341,0.301,67.7,Medium,monitor
+S100260,0.299,64.5,Low,study-skills workshop
+S100204,0.296,66.3,Low,monitor
+S100190,0.296,67.6,Low,academic advisor meeting
+S101171,0.293,65.5,Low,coursework check-in; refer to tutoring
+S100654,0.293,63.8,Low,attendance outreach; refer to tutoring
+S100433,0.288,66.2,Low,study-skills workshop
+S100554,0.288,64.6,Low,monitor
+S101046,0.288,64.1,Low,refer to tutoring
+S100940,0.284,64.9,Low,coursework check-in; study-skills workshop
+S101135,0.283,64.5,Low,coursework check-in
+S100239,0.282,63.9,Low,refer to tutoring
+S101352,0.276,66.7,Low,monitor
+S100116,0.275,66.5,Low,monitor
+S100674,0.274,69.3,Low,coursework check-in; study-skills workshop
+S100830,0.274,65.9,Low,monitor
+S101336,0.273,65.3,Low,coursework check-in
+S100342,0.27,67.8,Low,monitor
+S101344,0.27,67.6,Low,study-skills workshop
+S100409,0.27,65.7,Low,study-skills workshop; refer to tutoring
+S100568,0.269,67.7,Low,attendance outreach
+S100187,0.268,66.3,Low,refer to tutoring
+S100648,0.268,66.0,Low,academic advisor meeting
+S101482,0.267,65.1,Low,monitor
+S100598,0.266,66.6,Low,coursework check-in
+S100657,0.264,66.7,Low,monitor
+S101321,0.263,66.2,Low,coursework check-in; study-skills workshop
+S100747,0.262,66.9,Low,attendance outreach
+S100953,0.258,64.7,Low,monitor
+S101320,0.258,64.8,Low,attendance outreach; refer to tutoring
+S101428,0.258,64.6,Low,attendance outreach
+S100294,0.257,66.5,Low,refer to tutoring
+S100886,0.255,66.1,Low,refer to tutoring
+S100584,0.248,65.5,Low,attendance outreach; coursework check-in
+S100947,0.248,64.5,Low,monitor
+S100514,0.248,68.2,Low,monitor
+S100585,0.247,66.8,Low,monitor
+S100375,0.247,67.4,Low,coursework check-in; academic advisor meeting
+S100387,0.247,67.3,Low,monitor
+S100022,0.246,65.5,Low,refer to tutoring
+S100288,0.245,65.9,Low,monitor
+S101436,0.245,67.4,Low,coursework check-in
+S101470,0.244,67.2,Low,study-skills workshop
+S100505,0.243,64.8,Low,attendance outreach; academic advisor meeting
+S101379,0.24,67.8,Low,monitor
+S100011,0.239,65.9,Low,refer to tutoring
+S100126,0.237,64.6,Low,attendance outreach; refer to tutoring
+S100691,0.235,66.3,Low,coursework check-in; refer to tutoring
+S101012,0.235,66.6,Low,monitor
+S100364,0.235,64.9,Low,refer to tutoring
+S101010,0.235,67.3,Low,monitor
+S100984,0.232,67.0,Low,academic advisor meeting
+S101114,0.231,68.2,Low,coursework check-in
+S100640,0.23,66.4,Low,study-skills workshop; refer to tutoring
+S100476,0.228,66.6,Low,study-skills workshop; refer to tutoring
+S100771,0.227,68.6,Low,monitor
+S101191,0.227,65.9,Low,attendance outreach; coursework check-in
+S100751,0.227,68.4,Low,monitor
+S100177,0.226,67.3,Low,refer to tutoring
+S100216,0.226,65.5,Low,refer to tutoring
+S101499,0.226,67.5,Low,refer to tutoring
+S100793,0.225,68.6,Low,attendance outreach; study-skills workshop
+S100386,0.223,67.0,Low,monitor
+S101153,0.222,69.0,Low,study-skills workshop; academic advisor meeting
+S100275,0.222,66.8,Low,refer to tutoring
+S100992,0.221,67.0,Low,refer to tutoring
+S101437,0.218,69.6,Low,coursework check-in; study-skills workshop
+S101334,0.218,67.7,Low,study-skills workshop; refer to tutoring
+S100318,0.218,67.6,Low,academic advisor meeting
+S101110,0.217,68.0,Low,attendance outreach; coursework check-in; study-skills workshop
+S100558,0.216,65.9,Low,coursework check-in
+S100312,0.216,65.4,Low,refer to tutoring
+S100405,0.216,68.1,Low,monitor
+S100698,0.215,65.6,Low,monitor
+S100800,0.214,66.3,Low,monitor
+S101212,0.214,66.5,Low,study-skills workshop; refer to tutoring
+S100207,0.214,67.9,Low,study-skills workshop
+S100142,0.211,67.3,Low,study-skills workshop
+S100517,0.209,65.6,Low,monitor
+S100523,0.207,68.0,Low,monitor
+S101220,0.205,66.9,Low,refer to tutoring
+S101070,0.203,67.0,Low,monitor
+S100381,0.203,66.8,Low,coursework check-in
+S101297,0.202,66.9,Low,monitor
+S101057,0.202,67.9,Low,monitor
+S100129,0.202,69.1,Low,study-skills workshop
+S100443,0.201,67.8,Low,study-skills workshop
+S100473,0.201,68.0,Low,attendance outreach; study-skills workshop
+S100921,0.201,66.7,Low,monitor
+S100981,0.2,69.0,Low,monitor
+S101236,0.2,67.6,Low,academic advisor meeting
+S100557,0.199,67.7,Low,monitor
+S100844,0.198,66.6,Low,coursework check-in
+S100319,0.198,67.7,Low,refer to tutoring
+S100795,0.196,68.3,Low,refer to tutoring
+S100607,0.196,67.6,Low,study-skills workshop
+S100440,0.196,67.2,Low,attendance outreach
+S100447,0.195,65.2,Low,attendance outreach; refer to tutoring
+S101103,0.193,66.6,Low,coursework check-in
+S101187,0.193,67.4,Low,coursework check-in
+S101222,0.193,66.3,Low,monitor
+S100147,0.192,67.7,Low,monitor
+S101449,0.189,66.4,Low,coursework check-in
+S100349,0.188,66.6,Low,study-skills workshop
+S100032,0.187,66.7,Low,refer to tutoring
+S100039,0.187,67.1,Low,refer to tutoring
+S100157,0.186,67.4,Low,coursework check-in
+S101008,0.186,65.9,Low,attendance outreach; coursework check-in
+S101381,0.185,68.2,Low,monitor
+S100456,0.185,65.9,Low,attendance outreach; coursework check-in
+S101342,0.183,68.2,Low,attendance outreach
+S100500,0.181,66.6,Low,monitor
+S100740,0.181,69.9,Low,monitor
+S100690,0.18,67.3,Low,refer to tutoring
+S100842,0.179,65.9,Low,refer to tutoring
+S101129,0.178,68.0,Low,monitor
+S100955,0.178,66.8,Low,attendance outreach
+S100304,0.178,68.1,Low,coursework check-in
+S101367,0.177,66.4,Low,refer to tutoring
+S101138,0.176,67.0,Low,refer to tutoring
+S100908,0.175,66.0,Low,monitor
+S100322,0.175,67.5,Low,monitor
+S100581,0.174,66.7,Low,attendance outreach
+S100929,0.173,67.0,Low,monitor
+S101208,0.166,69.8,Low,monitor
+S101338,0.166,67.6,Low,attendance outreach
+S100703,0.166,67.8,Low,monitor
+S100766,0.165,67.8,Low,monitor
+S100128,0.165,68.5,Low,attendance outreach
+S100380,0.164,67.7,Low,study-skills workshop
+S101062,0.164,67.3,Low,coursework check-in
+S101150,0.164,66.0,Low,coursework check-in; refer to tutoring
+S101291,0.163,68.3,Low,refer to tutoring
+S100754,0.163,66.7,Low,refer to tutoring
+S101155,0.163,68.2,Low,coursework check-in
+S100061,0.163,66.8,Low,attendance outreach
+S100518,0.162,66.7,Low,monitor
+S100668,0.161,70.0,Low,monitor
+S100580,0.161,68.0,Low,monitor
+S100064,0.161,66.1,Low,coursework check-in; refer to tutoring
+S101289,0.159,68.0,Low,refer to tutoring
+S101133,0.158,68.2,Low,attendance outreach; refer to tutoring
+S101001,0.157,65.4,Low,attendance outreach; refer to tutoring
+S101360,0.157,68.1,Low,attendance outreach
+S100683,0.156,69.8,Low,academic advisor meeting
+S100137,0.156,67.2,Low,monitor
+S100906,0.154,68.1,Low,monitor
+S100371,0.151,69.6,Low,attendance outreach; coursework check-in
+S100748,0.15,67.4,Low,academic advisor meeting
+S100873,0.15,69.5,Low,monitor
+S101335,0.147,69.7,Low,attendance outreach; coursework check-in; study-skills workshop
+S101452,0.147,67.7,Low,coursework check-in
+S100301,0.146,68.2,Low,monitor
+S100428,0.146,68.6,Low,monitor
+S100130,0.146,69.2,Low,refer to tutoring
+S100610,0.144,68.9,Low,study-skills workshop
+S101172,0.141,67.2,Low,monitor
+S100466,0.141,67.7,Low,refer to tutoring
+S101204,0.14,69.3,Low,academic advisor meeting
+S101418,0.14,66.9,Low,monitor
+S100675,0.139,68.9,Low,coursework check-in
+S101188,0.139,69.5,Low,monitor
+S101192,0.139,69.6,Low,study-skills workshop
+S100317,0.138,68.7,Low,study-skills workshop
+S101078,0.138,67.4,Low,refer to tutoring
+S100563,0.138,67.6,Low,coursework check-in
+S101067,0.137,68.1,Low,refer to tutoring
+S101085,0.137,66.9,Low,attendance outreach; study-skills workshop
+S101480,0.137,67.6,Low,coursework check-in
+S100178,0.137,68.0,Low,coursework check-in
+S100744,0.136,68.3,Low,monitor
+S100181,0.135,68.2,Low,study-skills workshop
+S100303,0.134,69.4,Low,study-skills workshop
+S101462,0.134,67.6,Low,monitor
+S100442,0.13,67.2,Low,coursework check-in; refer to tutoring
+S100460,0.13,70.4,Low,monitor
+S100448,0.13,67.6,Low,attendance outreach; coursework check-in
+S100151,0.13,70.7,Low,coursework check-in
+S101159,0.129,68.1,Low,monitor
+S101139,0.129,71.1,Low,coursework check-in
+S100080,0.129,68.3,Low,academic advisor meeting
+S100118,0.128,67.4,Low,refer to tutoring
+S100193,0.127,68.4,Low,monitor
+S100926,0.127,69.6,Low,study-skills workshop
+S101359,0.126,70.8,Low,coursework check-in
+S101211,0.126,69.7,Low,monitor
+S101186,0.124,69.3,Low,monitor
+S100219,0.124,70.7,Low,study-skills workshop
+S101073,0.123,66.5,Low,refer to tutoring
+S100917,0.122,68.7,Low,monitor
+S101386,0.121,70.5,Low,monitor
+S100306,0.121,68.0,Low,monitor
+S101494,0.121,67.3,Low,refer to tutoring; academic advisor meeting
+S100285,0.121,68.9,Low,monitor
+S101322,0.12,69.9,Low,monitor
+S101197,0.12,68.4,Low,coursework check-in
+S101400,0.12,69.9,Low,monitor
+S100097,0.12,69.3,Low,monitor
+S100804,0.12,68.6,Low,monitor
+S101221,0.118,70.1,Low,monitor
+S100895,0.118,68.3,Low,study-skills workshop; refer to tutoring
+S101466,0.118,69.4,Low,coursework check-in
+S100834,0.118,71.4,Low,monitor
+S100810,0.118,69.3,Low,monitor
+S101269,0.117,69.0,Low,monitor
+S100660,0.116,68.6,Low,refer to tutoring
+S100267,0.116,68.0,Low,monitor
+S100213,0.116,68.8,Low,coursework check-in; study-skills workshop
+S101234,0.116,68.9,Low,refer to tutoring
+S100832,0.116,70.9,Low,coursework check-in
+S101009,0.116,70.6,Low,study-skills workshop
+S100680,0.115,67.4,Low,monitor
+S100998,0.114,68.8,Low,refer to tutoring
+S100819,0.114,69.7,Low,monitor
+S100105,0.113,68.2,Low,monitor
+S101233,0.111,70.1,Low,monitor
+S100082,0.11,70.3,Low,attendance outreach; study-skills workshop
+S100507,0.11,69.0,Low,academic advisor meeting
+S100718,0.109,67.7,Low,monitor
+S100325,0.108,70.8,Low,study-skills workshop
+S100616,0.107,69.0,Low,refer to tutoring
+S100307,0.106,68.6,Low,monitor
+S100379,0.106,68.1,Low,monitor
+S100075,0.104,69.4,Low,monitor
+S100305,0.103,69.4,Low,study-skills workshop
+S100645,0.102,67.9,Low,attendance outreach
+S100522,0.101,69.7,Low,study-skills workshop
+S100865,0.1,70.0,Low,coursework check-in; study-skills workshop
+S101450,0.1,71.0,Low,coursework check-in
+S101396,0.1,70.5,Low,monitor
+S101458,0.099,71.5,Low,study-skills workshop
+S100559,0.099,70.5,Low,monitor
+S100681,0.098,67.7,Low,attendance outreach; study-skills workshop
+S100393,0.098,71.9,Low,monitor
+S101119,0.098,67.5,Low,refer to tutoring
+S100481,0.098,70.4,Low,monitor
+S100146,0.096,70.2,Low,study-skills workshop
+S100632,0.095,68.1,Low,coursework check-in
+S101364,0.094,70.9,Low,monitor
+S100385,0.094,68.0,Low,attendance outreach
+S100277,0.093,70.0,Low,academic advisor meeting
+S100389,0.091,69.1,Low,monitor
+S100642,0.091,70.2,Low,coursework check-in
+S100757,0.091,69.6,Low,study-skills workshop
+S100269,0.09,68.2,Low,attendance outreach; coursework check-in
+S100323,0.09,69.9,Low,monitor
+S100717,0.09,67.9,Low,monitor
+S100907,0.089,68.6,Low,monitor
+S100373,0.089,68.1,Low,attendance outreach
+S100933,0.089,68.5,Low,attendance outreach; coursework check-in
+S100586,0.088,70.5,Low,monitor
+S100814,0.087,71.0,Low,monitor
+S101268,0.086,68.3,Low,refer to tutoring
+S101228,0.086,71.1,Low,study-skills workshop
+S100009,0.085,69.3,Low,monitor
+S100480,0.083,68.7,Low,academic advisor meeting
+S100735,0.083,69.8,Low,monitor
+S100790,0.083,70.0,Low,coursework check-in; study-skills workshop
+S101112,0.083,69.1,Low,monitor
+S100688,0.083,67.8,Low,attendance outreach; coursework check-in
+S100388,0.082,70.1,Low,coursework check-in
+S100823,0.082,69.3,Low,monitor
+S101487,0.082,68.8,Low,monitor
+S101041,0.082,70.8,Low,attendance outreach
+S100340,0.08,69.4,Low,monitor
+S100539,0.08,68.6,Low,monitor
+S100110,0.08,68.3,Low,attendance outreach
+S101372,0.08,70.8,Low,monitor
+S101134,0.08,71.7,Low,monitor
+S101032,0.079,72.1,Low,study-skills workshop
+S100845,0.079,70.4,Low,refer to tutoring
+S101120,0.079,68.3,Low,attendance outreach; coursework check-in
+S100419,0.079,68.5,Low,monitor
+S100843,0.078,70.6,Low,attendance outreach
+S100815,0.078,70.6,Low,monitor
+S100661,0.076,69.6,Low,monitor
+S100360,0.076,68.5,Low,attendance outreach; coursework check-in
+S100117,0.076,69.7,Low,study-skills workshop
+S101210,0.076,69.1,Low,coursework check-in
+S101361,0.075,69.9,Low,refer to tutoring
+S101064,0.074,69.5,Low,attendance outreach
+S100414,0.074,70.4,Low,monitor
+S100641,0.072,70.4,Low,study-skills workshop; refer to tutoring
+S100068,0.071,70.3,Low,monitor
+S100270,0.071,70.2,Low,coursework check-in
+S100979,0.07,69.4,Low,study-skills workshop
+S100753,0.07,68.7,Low,monitor
+S101185,0.07,72.8,Low,monitor
+S100226,0.07,71.5,Low,coursework check-in
+S100368,0.069,69.3,Low,monitor
+S101422,0.069,73.3,Low,monitor
+S100857,0.069,70.7,Low,monitor
+S100878,0.069,70.7,Low,coursework check-in
+S100492,0.068,72.3,Low,monitor
+S100044,0.068,70.1,Low,study-skills workshop; refer to tutoring
+S101270,0.067,71.1,Low,monitor
+S100732,0.067,68.9,Low,monitor
+S100670,0.066,69.1,Low,attendance outreach
+S100310,0.066,72.3,Low,monitor
+S101175,0.066,68.9,Low,attendance outreach
+S101031,0.066,71.0,Low,attendance outreach; study-skills workshop
+S100383,0.066,69.5,Low,coursework check-in
+S100935,0.066,71.8,Low,study-skills workshop
+S100902,0.065,68.5,Low,attendance outreach
+S100446,0.065,69.8,Low,monitor
+S100451,0.065,71.0,Low,monitor
+S101063,0.064,73.5,Low,monitor
+S101248,0.064,70.0,Low,coursework check-in; study-skills workshop
+S100863,0.063,70.3,Low,monitor
+S100363,0.063,70.6,Low,coursework check-in
+S101311,0.062,69.8,Low,study-skills workshop
+S100646,0.061,70.4,Low,study-skills workshop
+S101200,0.061,70.8,Low,monitor
+S101345,0.061,70.1,Low,monitor
+S101148,0.06,70.9,Low,monitor
+S100877,0.06,69.9,Low,coursework check-in
+S101395,0.06,71.4,Low,monitor
+S101137,0.059,70.0,Low,monitor
+S100543,0.059,68.7,Low,monitor
+S100397,0.059,71.6,Low,monitor
+S101249,0.059,71.8,Low,coursework check-in
+S101267,0.059,70.0,Low,study-skills workshop
+S100185,0.058,69.9,Low,monitor
+S100628,0.058,70.8,Low,coursework check-in
+S100892,0.058,71.3,Low,monitor
+S101434,0.057,71.1,Low,monitor
+S101327,0.057,71.0,Low,monitor
+S100338,0.057,69.8,Low,attendance outreach; coursework check-in
+S101298,0.057,71.8,Low,study-skills workshop
+S100826,0.056,72.0,Low,monitor
+S100120,0.056,70.7,Low,monitor
+S101276,0.054,72.3,Low,monitor
+S101023,0.054,70.5,Low,monitor
+S100150,0.054,72.3,Low,study-skills workshop
+S101091,0.053,72.3,Low,monitor
+S100684,0.053,72.9,Low,monitor
+S100034,0.052,70.8,Low,monitor
+S100692,0.052,72.9,Low,monitor
+S101196,0.052,72.6,Low,attendance outreach
+S101348,0.052,72.3,Low,monitor
+S100287,0.052,71.2,Low,monitor
+S100571,0.051,71.3,Low,monitor
+S101387,0.051,71.2,Low,coursework check-in
+S100509,0.051,70.4,Low,monitor
+S100437,0.051,72.7,Low,study-skills workshop
+S100972,0.051,70.6,Low,monitor
+S100914,0.05,71.5,Low,monitor
+S100162,0.05,71.8,Low,coursework check-in; study-skills workshop
+S101127,0.05,70.4,Low,monitor
+S100706,0.05,71.7,Low,monitor
+S100037,0.049,70.1,Low,refer to tutoring
+S100536,0.049,70.9,Low,refer to tutoring
+S100133,0.049,72.4,Low,monitor
+S100570,0.049,71.1,Low,monitor
+S101083,0.049,73.7,Low,monitor
+S100238,0.048,72.2,Low,monitor
+S101392,0.048,69.7,Low,attendance outreach; refer to tutoring
+S100503,0.048,73.2,Low,study-skills workshop
+S101286,0.048,70.6,Low,academic advisor meeting
+S100055,0.048,70.1,Low,coursework check-in
+S100727,0.048,73.5,Low,monitor
+S100672,0.047,70.4,Low,attendance outreach
+S101306,0.047,71.7,Low,attendance outreach; coursework check-in; academic advisor meeting
+S100802,0.047,72.6,Low,monitor
+S100489,0.046,73.0,Low,coursework check-in
+S100241,0.046,71.8,Low,coursework check-in
+S101271,0.046,71.4,Low,monitor
+S101477,0.046,72.1,Low,monitor
+S101100,0.045,71.4,Low,monitor
+S100604,0.045,70.6,Low,study-skills workshop
+S100134,0.045,72.2,Low,attendance outreach; study-skills workshop
+S100182,0.045,71.4,Low,refer to tutoring
+S100621,0.045,71.6,Low,monitor
+S100516,0.044,70.2,Low,monitor
+S101414,0.044,71.6,Low,monitor
+S100789,0.044,73.1,Low,monitor
+S101285,0.044,73.7,Low,study-skills workshop
+S100483,0.043,72.4,Low,monitor
+S100067,0.043,71.5,Low,monitor
+S100477,0.042,72.5,Low,monitor
+S100879,0.042,70.5,Low,coursework check-in
+S100531,0.041,73.6,Low,study-skills workshop; academic advisor meeting
+S100345,0.041,70.9,Low,coursework check-in
+S100594,0.041,71.3,Low,coursework check-in
+S100104,0.041,71.7,Low,monitor
+S100901,0.041,72.4,Low,academic advisor meeting
+S101223,0.041,71.9,Low,monitor
+S100445,0.04,71.2,Low,monitor
+S100655,0.04,72.0,Low,coursework check-in
+S101162,0.04,70.8,Low,coursework check-in
+S101104,0.04,71.1,Low,monitor
+S100508,0.04,71.4,Low,attendance outreach; coursework check-in; study-skills workshop
+S100806,0.04,70.5,Low,refer to tutoring
+S100726,0.039,72.3,Low,monitor
+S100094,0.039,72.0,Low,coursework check-in
+S101108,0.038,70.7,Low,monitor
+S101144,0.038,70.2,Low,monitor
+S101047,0.037,73.0,Low,monitor
+S100589,0.037,73.3,Low,attendance outreach
+S100308,0.037,73.4,Low,monitor
+S100783,0.037,72.0,Low,coursework check-in
+S101350,0.036,71.8,Low,monitor
+S100008,0.036,70.9,Low,monitor
+S101479,0.036,71.2,Low,monitor
+S100528,0.036,72.1,Low,monitor
+S100470,0.036,72.8,Low,coursework check-in
+S100427,0.036,72.1,Low,coursework check-in
+S100565,0.036,72.8,Low,monitor
+S101011,0.036,73.4,Low,coursework check-in; study-skills workshop
+S101184,0.035,73.4,Low,monitor
+S100136,0.035,71.6,Low,monitor
+S100320,0.035,71.9,Low,refer to tutoring
+S100880,0.035,73.2,Low,study-skills workshop
+S100026,0.035,72.2,Low,monitor
+S100430,0.035,71.9,Low,monitor
+S101405,0.035,71.7,Low,monitor
+S100030,0.035,72.9,Low,monitor
+S100244,0.035,71.4,Low,monitor
+S100605,0.034,73.6,Low,monitor
+S100164,0.034,72.3,Low,monitor
+S101474,0.033,72.5,Low,monitor
+S100934,0.033,71.7,Low,monitor
+S100309,0.033,73.2,Low,coursework check-in
+S100752,0.032,72.5,Low,monitor
+S101123,0.032,70.6,Low,monitor
+S101461,0.032,71.1,Low,monitor
+S100230,0.032,71.1,Low,monitor
+S100665,0.032,72.2,Low,monitor
+S100484,0.032,71.5,Low,monitor
+S100997,0.032,72.8,Low,monitor
+S100938,0.031,72.7,Low,coursework check-in; study-skills workshop
+S100341,0.031,71.0,Low,attendance outreach; study-skills workshop
+S101147,0.031,73.7,Low,monitor
+S100249,0.031,72.9,Low,monitor
+S100854,0.031,71.5,Low,monitor
+S100869,0.031,74.2,Low,academic advisor meeting
+S100076,0.031,71.9,Low,monitor
+S100556,0.031,71.1,Low,attendance outreach
+S100236,0.031,71.6,Low,monitor
+S100454,0.031,72.0,Low,coursework check-in
+S100168,0.031,74.4,Low,monitor
+S101467,0.03,71.3,Low,attendance outreach
+S101483,0.03,71.3,Low,monitor
+S100436,0.03,74.3,Low,study-skills workshop
+S100931,0.03,73.8,Low,study-skills workshop
+S100949,0.03,71.4,Low,monitor
+S100724,0.03,73.4,Low,monitor
+S100587,0.03,74.3,Low,monitor
+S100720,0.03,73.8,Low,monitor
+S100355,0.03,72.2,Low,refer to tutoring
+S101006,0.029,71.6,Low,monitor
+S100890,0.029,72.1,Low,monitor
+S100024,0.029,72.6,Low,monitor
+S101301,0.029,73.8,Low,monitor
+S100135,0.029,75.3,Low,attendance outreach
+S101324,0.029,72.1,Low,study-skills workshop; refer to tutoring
+S101105,0.028,71.8,Low,monitor
+S100566,0.028,74.0,Low,monitor
+S101469,0.028,73.0,Low,monitor
+S100464,0.028,74.3,Low,study-skills workshop
+S100667,0.028,71.9,Low,monitor
+S100092,0.028,73.4,Low,study-skills workshop
+S100705,0.027,72.7,Low,monitor
+S100849,0.027,74.1,Low,monitor
+S101088,0.027,73.6,Low,study-skills workshop
+S100086,0.027,73.5,Low,monitor
+S100417,0.027,73.3,Low,monitor
+S101215,0.026,75.6,Low,monitor
+S100400,0.026,74.4,Low,monitor
+S100365,0.026,74.5,Low,monitor
+S100361,0.025,73.8,Low,monitor
+S101261,0.025,73.8,Low,monitor
+S100314,0.025,72.0,Low,study-skills workshop
+S100392,0.025,74.3,Low,monitor
+S100458,0.025,72.1,Low,attendance outreach; coursework check-in
+S100170,0.025,73.0,Low,monitor
+S100623,0.024,75.6,Low,study-skills workshop
+S100366,0.024,74.7,Low,monitor
+S100123,0.024,75.3,Low,monitor
+S100354,0.024,72.9,Low,monitor
+S100915,0.024,73.3,Low,monitor
+S100871,0.024,73.3,Low,monitor
+S101468,0.024,73.3,Low,monitor
+S100367,0.024,74.3,Low,monitor
+S100695,0.023,73.1,Low,monitor
+S101132,0.023,74.9,Low,study-skills workshop
+S100666,0.023,72.0,Low,monitor
+S100560,0.023,72.1,Low,refer to tutoring
+S101420,0.022,73.1,Low,study-skills workshop
+S100017,0.022,71.7,Low,monitor
+S101018,0.022,73.7,Low,attendance outreach
+S101016,0.022,73.7,Low,monitor
+S100787,0.022,71.8,Low,monitor
+S101176,0.022,73.4,Low,attendance outreach
+S101093,0.022,73.7,Low,coursework check-in
+S100537,0.021,73.9,Low,monitor
+S100811,0.021,73.6,Low,monitor
+S100180,0.021,73.5,Low,monitor
+S100253,0.021,74.0,Low,monitor
+S100378,0.021,74.1,Low,academic advisor meeting
+S100100,0.021,73.1,Low,coursework check-in
+S100033,0.02,77.4,Low,monitor
+S100069,0.02,73.9,Low,study-skills workshop
+S101190,0.02,73.6,Low,study-skills workshop
+S101319,0.02,73.5,Low,monitor
+S101226,0.019,73.0,Low,coursework check-in
+S100925,0.019,72.2,Low,attendance outreach
+S100463,0.019,74.1,Low,attendance outreach
+S100927,0.019,75.5,Low,monitor
+S100599,0.019,74.9,Low,coursework check-in
+S100730,0.019,74.7,Low,monitor
+S100369,0.019,73.0,Low,coursework check-in
+S101281,0.019,75.7,Low,monitor
+S100220,0.019,74.9,Low,monitor
+S101229,0.019,74.0,Low,coursework check-in
+S100839,0.019,72.4,Low,monitor
+S100042,0.018,73.8,Low,study-skills workshop
+S100332,0.018,75.6,Low,monitor
+S100990,0.018,75.6,Low,monitor
+S100924,0.018,72.1,Low,attendance outreach
+S101173,0.018,73.0,Low,attendance outreach; coursework check-in
+S101166,0.018,73.4,Low,monitor
+S101440,0.018,74.3,Low,monitor
+S100595,0.018,73.9,Low,monitor
+S100600,0.018,74.1,Low,monitor
+S100339,0.018,74.3,Low,monitor
+S100669,0.018,72.8,Low,monitor
+S100222,0.018,75.4,Low,monitor
+S100425,0.018,75.1,Low,monitor
+S101097,0.018,72.7,Low,monitor
+S100904,0.018,72.7,Low,monitor
+S100005,0.018,73.7,Low,refer to tutoring
+S100271,0.017,75.3,Low,monitor
+S100056,0.017,73.2,Low,monitor
+S100233,0.017,76.7,Low,attendance outreach; coursework check-in
+S100986,0.017,74.1,Low,study-skills workshop
+S101055,0.017,76.2,Low,monitor
+S100077,0.017,74.9,Low,coursework check-in
+S100012,0.017,74.8,Low,attendance outreach
+S100254,0.017,72.8,Low,monitor
+S100519,0.017,74.9,Low,study-skills workshop
+S100887,0.016,73.8,Low,monitor
+S101179,0.016,73.0,Low,monitor
+S100229,0.016,76.5,Low,monitor
+S100356,0.016,75.9,Low,monitor
+S100291,0.016,74.4,Low,coursework check-in
+S101254,0.016,75.6,Low,monitor
+S101398,0.016,74.1,Low,academic advisor meeting
+S100353,0.016,75.1,Low,monitor
+S100408,0.016,73.8,Low,academic advisor meeting
+S100407,0.016,74.3,Low,monitor
+S100403,0.016,75.4,Low,monitor
+S100530,0.015,75.4,Low,monitor
+S101328,0.015,74.8,Low,monitor
+S101034,0.015,73.8,Low,coursework check-in
+S100302,0.015,74.1,Low,monitor
+S100014,0.015,74.0,Low,monitor
+S100198,0.015,75.5,Low,study-skills workshop
+S100223,0.015,71.9,Low,monitor
+S100583,0.015,75.2,Low,monitor
+S101411,0.015,74.7,Low,monitor
+S100324,0.015,73.5,Low,monitor
+S100107,0.014,77.0,Low,monitor
+S100482,0.014,74.8,Low,study-skills workshop
+S100765,0.014,76.2,Low,monitor
+S100829,0.014,73.8,Low,monitor
+S101408,0.014,74.5,Low,monitor
+S101118,0.014,76.7,Low,study-skills workshop
+S100633,0.014,72.6,Low,coursework check-in
+S100242,0.014,75.3,Low,monitor
+S100019,0.014,75.8,Low,monitor
+S100888,0.013,74.4,Low,study-skills workshop
+S101349,0.013,75.5,Low,monitor
+S100444,0.013,75.7,Low,coursework check-in
+S100853,0.013,76.6,Low,monitor
+S100734,0.013,75.1,Low,coursework check-in
+S100533,0.013,75.7,Low,monitor
+S100462,0.013,75.0,Low,monitor
+S100813,0.013,75.2,Low,monitor
+S100315,0.013,75.5,Low,coursework check-in
+S101275,0.013,76.8,Low,monitor
+S100930,0.013,74.5,Low,monitor
+S101096,0.013,74.7,Low,monitor
+S100003,0.013,74.4,Low,monitor
+S100592,0.013,75.0,Low,monitor
+S100153,0.013,75.6,Low,attendance outreach
+S101456,0.013,74.2,Low,attendance outreach
+S101476,0.013,74.3,Low,monitor
+S100590,0.012,74.8,Low,coursework check-in
+S101263,0.012,75.2,Low,monitor
+S101287,0.012,74.0,Low,monitor
+S100194,0.012,76.0,Low,monitor
+S100243,0.012,74.3,Low,attendance outreach; academic advisor meeting
+S100578,0.012,75.0,Low,monitor
+S100231,0.012,75.8,Low,coursework check-in
+S100263,0.012,75.4,Low,monitor
+S100763,0.012,76.4,Low,monitor
+S100715,0.012,75.6,Low,monitor
+S100713,0.012,74.4,Low,coursework check-in
+S100767,0.012,76.5,Low,monitor
+S101355,0.012,76.9,Low,monitor
+S101061,0.011,77.9,Low,monitor
+S100820,0.011,77.9,Low,study-skills workshop
+S101230,0.011,77.3,Low,monitor
+S100733,0.011,75.4,Low,coursework check-in; academic advisor meeting
+S100203,0.011,74.8,Low,monitor
+S101485,0.01,74.2,Low,attendance outreach
+S100762,0.01,74.7,Low,coursework check-in
+S100290,0.01,74.9,Low,monitor
+S101454,0.01,74.5,Low,attendance outreach
+S101189,0.01,75.3,Low,study-skills workshop
+S100004,0.01,75.5,Low,monitor
+S100835,0.01,75.5,Low,monitor
+S100058,0.01,76.0,Low,monitor
+S100212,0.01,74.5,Low,monitor
+S100807,0.01,76.0,Low,monitor
+S100847,0.01,76.6,Low,coursework check-in
+S100729,0.01,75.9,Low,monitor
+S100905,0.01,75.0,Low,monitor
+S101424,0.01,75.9,Low,monitor
+S100184,0.01,77.3,Low,study-skills workshop
+S100391,0.009,75.7,Low,monitor
+S101374,0.009,77.2,Low,attendance outreach
+S100535,0.009,75.4,Low,coursework check-in
+S101058,0.009,75.9,Low,study-skills workshop
+S100663,0.009,77.4,Low,monitor
+S100059,0.009,73.8,Low,monitor
+S101369,0.009,76.9,Low,monitor
+S100412,0.009,75.6,Low,attendance outreach; coursework check-in
+S100415,0.009,76.9,Low,monitor
+S101399,0.009,78.5,Low,monitor
+S100671,0.009,76.1,Low,monitor
+S100329,0.009,78.3,Low,study-skills workshop
+S100276,0.009,75.8,Low,coursework check-in
+S100542,0.009,75.2,Low,monitor
+S100761,0.009,75.3,Low,monitor
+S100756,0.009,74.1,Low,monitor
+S101143,0.008,75.8,Low,monitor
+S100911,0.008,74.2,Low,coursework check-in
+S100384,0.008,76.4,Low,academic advisor meeting
+S100967,0.008,75.1,Low,monitor
+S100899,0.008,75.2,Low,monitor
+S101240,0.008,77.8,Low,monitor
+S101304,0.008,76.6,Low,monitor
+S100095,0.008,75.3,Low,monitor
+S100591,0.008,77.3,Low,monitor
+S100031,0.008,77.8,Low,monitor
+S100191,0.008,77.4,Low,monitor
+S100432,0.008,78.0,Low,monitor
+S100629,0.008,76.1,Low,monitor
+S100520,0.008,76.9,Low,monitor
+S100343,0.008,75.5,Low,monitor
+S101089,0.008,76.2,Low,monitor
+S101069,0.008,73.7,Low,attendance outreach
+S101357,0.008,75.3,Low,attendance outreach; coursework check-in
+S100015,0.008,76.5,Low,monitor
+S101206,0.007,76.8,Low,monitor
+S100889,0.007,75.4,Low,monitor
+S100494,0.007,76.3,Low,coursework check-in
+S100969,0.007,76.5,Low,monitor
+S101442,0.007,77.9,Low,monitor
+S100821,0.007,75.7,Low,monitor
+S100498,0.007,77.5,Low,coursework check-in
+S101042,0.007,76.6,Low,monitor
+S100985,0.007,77.4,Low,monitor
+S101090,0.007,74.8,Low,monitor
+S101180,0.007,77.5,Low,coursework check-in
+S101314,0.007,76.7,Low,monitor
+S100103,0.007,74.9,Low,monitor
+S100919,0.007,77.3,Low,monitor
+S100328,0.007,76.3,Low,monitor
+S100171,0.007,76.9,Low,monitor
+S100687,0.007,75.9,Low,monitor
+S100682,0.007,76.8,Low,monitor
+S100712,0.007,77.4,Low,study-skills workshop
+S101486,0.007,76.7,Low,monitor
+S101489,0.007,77.1,Low,monitor
+S100313,0.007,76.5,Low,monitor
+S100868,0.007,76.4,Low,monitor
+S101402,0.006,77.7,Low,monitor
+S101446,0.006,79.4,Low,coursework check-in
+S100138,0.006,77.6,Low,monitor
+S100449,0.006,75.4,Low,attendance outreach
+S100114,0.006,76.2,Low,monitor
+S101351,0.006,79.8,Low,coursework check-in
+S100524,0.006,79.2,Low,coursework check-in
+S101017,0.006,79.3,Low,monitor
+S100987,0.006,78.9,Low,monitor
+S100786,0.006,76.3,Low,monitor
+S100831,0.006,76.1,Low,monitor
+S101404,0.006,75.7,Low,monitor
+S100896,0.006,77.2,Low,monitor
+S100073,0.006,76.8,Low,study-skills workshop
+S100261,0.006,78.0,Low,monitor
+S100799,0.006,77.7,Low,monitor
+S100837,0.006,78.3,Low,coursework check-in
+S100093,0.006,78.3,Low,monitor
+S100792,0.006,76.3,Low,monitor
+S100991,0.006,77.3,Low,monitor
+S100798,0.005,80.0,Low,monitor
+S101264,0.005,76.0,Low,coursework check-in
+S100611,0.005,77.9,Low,monitor
+S100172,0.005,79.1,Low,monitor
+S101496,0.005,75.7,Low,attendance outreach
+S101441,0.005,78.1,Low,monitor
+S100775,0.005,77.9,Low,monitor
+S101121,0.005,77.5,Low,monitor
+S101029,0.005,77.6,Low,study-skills workshop
+S100351,0.005,77.0,Low,academic advisor meeting
+S101027,0.005,76.6,Low,attendance outreach
+S100738,0.005,77.4,Low,monitor
+S100561,0.005,80.1,Low,monitor
+S101337,0.005,76.4,Low,coursework check-in
+S101053,0.005,76.7,Low,monitor
+S100293,0.005,75.9,Low,academic advisor meeting
+S101384,0.005,77.9,Low,coursework check-in
+S100796,0.005,76.2,Low,monitor
+S100903,0.005,77.2,Low,monitor
+S101141,0.005,75.4,Low,monitor
+S100234,0.005,76.6,Low,monitor
+S100148,0.005,76.1,Low,monitor
+S101393,0.005,78.4,Low,monitor
+S100001,0.005,76.2,Low,monitor
+S101117,0.004,76.4,Low,attendance outreach
+S101383,0.004,80.5,Low,monitor
+S100247,0.004,76.8,Low,monitor
+S100264,0.004,76.3,Low,monitor
+S100132,0.004,77.4,Low,attendance outreach
+S100431,0.004,79.2,Low,monitor
+S100422,0.004,77.6,Low,monitor
+S101391,0.004,77.6,Low,monitor
+S100472,0.004,76.9,Low,monitor
+S100860,0.004,78.3,Low,monitor
+S101232,0.004,77.5,Low,monitor
+S100006,0.004,76.7,Low,monitor
+S100817,0.004,76.7,Low,monitor
+S100576,0.004,78.9,Low,coursework check-in
+S101292,0.004,76.5,Low,attendance outreach; coursework check-in
+S100965,0.004,76.4,Low,monitor
+S100818,0.004,77.3,Low,monitor
+S100946,0.004,77.4,Low,coursework check-in
+S100280,0.004,77.9,Low,monitor
+S100279,0.004,79.3,Low,study-skills workshop
+S100159,0.004,78.9,Low,monitor
+S100701,0.004,78.1,Low,monitor
+S100960,0.004,77.1,Low,monitor
+S100200,0.004,78.2,Low,monitor
+S100160,0.004,77.0,Low,monitor
+S100335,0.004,79.3,Low,monitor
+S100647,0.004,78.7,Low,monitor
+S100506,0.003,77.7,Low,monitor
+S100544,0.003,77.5,Low,attendance outreach
+S100471,0.003,79.8,Low,monitor
+S101256,0.003,79.7,Low,monitor
+S100002,0.003,80.1,Low,monitor
+S101065,0.003,79.9,Low,monitor
+S101145,0.003,78.3,Low,monitor
+S101131,0.003,76.5,Low,monitor
+S101430,0.003,75.6,Low,attendance outreach
+S100208,0.003,78.9,Low,monitor
+S100662,0.003,81.3,Low,monitor
+S100167,0.003,78.9,Low,monitor
+S100601,0.003,80.8,Low,coursework check-in
+S100023,0.003,81.7,Low,monitor
+S100333,0.003,79.7,Low,coursework check-in
+S100624,0.003,77.9,Low,monitor
+S101209,0.003,79.0,Low,monitor
+S101040,0.003,79.2,Low,coursework check-in
+S100736,0.003,80.5,Low,monitor
+S101443,0.002,81.0,Low,monitor
+S101111,0.002,78.6,Low,monitor
+S101417,0.002,80.0,Low,monitor
+S101146,0.002,80.0,Low,monitor
+S100347,0.002,79.8,Low,coursework check-in
+S100780,0.002,79.7,Low,monitor
+S101495,0.002,80.0,Low,monitor
+S100822,0.002,79.5,Low,monitor
+S100256,0.002,82.2,Low,monitor
+S101294,0.002,79.7,Low,monitor
+S101219,0.002,81.5,Low,monitor
+S100951,0.002,80.5,Low,attendance outreach
+S100950,0.002,77.8,Low,monitor
+S101081,0.002,78.9,Low,monitor
+S100101,0.002,79.4,Low,monitor
+S101239,0.002,78.7,Low,monitor
+S100155,0.002,80.0,Low,monitor
+S101214,0.002,80.6,Low,monitor
+S100175,0.002,79.0,Low,monitor
+S101300,0.002,81.5,Low,study-skills workshop
+S101299,0.002,80.5,Low,study-skills workshop
+S100603,0.002,79.9,Low,coursework check-in
+S100273,0.002,80.9,Low,monitor
+S101241,0.002,79.2,Low,monitor
+S101340,0.002,80.6,Low,monitor
+S101250,0.002,81.2,Low,monitor
+S101251,0.002,79.1,Low,monitor
+S100154,0.002,80.3,Low,study-skills workshop
+S100036,0.002,80.6,Low,monitor
+S100214,0.002,79.2,Low,coursework check-in
+S101448,0.001,83.1,Low,monitor
+S101498,0.001,79.9,Low,monitor
+S101253,0.001,80.6,Low,monitor
+S100816,0.001,83.5,Low,coursework check-in
+S100453,0.001,81.6,Low,coursework check-in
+S101077,0.001,81.6,Low,monitor
+S101049,0.001,81.1,Low,monitor
+S101252,0.001,79.8,Low,monitor
+S100474,0.001,82.4,Low,monitor
+S101242,0.001,83.3,Low,monitor
+S100070,0.001,78.9,Low,attendance outreach
+S100909,0.001,79.9,Low,monitor
+S101308,0.001,82.8,Low,monitor
+S100974,0.001,80.8,Low,monitor
+S100973,0.001,83.0,Low,monitor
+S100627,0.001,84.4,Low,monitor
+S101279,0.001,84.9,Low,coursework check-in
+S101444,0.001,83.8,Low,monitor
+S101280,0.001,80.2,Low,monitor
+S100588,0.001,83.2,Low,monitor
+S100664,0.001,81.7,Low,monitor
+S100010,0.001,81.4,Low,monitor
+S100257,0.001,83.3,Low,monitor
+S100316,0.001,80.7,Low,monitor
+S100618,0.001,81.0,Low,coursework check-in
+S100413,0.001,81.2,Low,monitor
+S101259,0.001,86.2,Low,monitor
+S100937,0.001,79.7,Low,monitor
+S100772,0.001,81.8,Low,coursework check-in
+S100980,0.001,84.4,Low,monitor
+S101205,0.001,84.3,Low,monitor
+S100021,0.001,81.2,Low,monitor
+S101165,0.001,81.5,Low,monitor
+S101167,0.001,80.9,Low,monitor
+S101216,0.001,84.6,Low,coursework check-in
+S100996,0.0,93.2,Low,monitor
+S100825,0.0,84.9,Low,monitor
+S100961,0.0,86.6,Low,monitor
+S100838,0.0,86.4,Low,monitor
+S100994,0.0,81.4,Low,monitor
+S100485,0.0,89.0,Low,monitor
+S101243,0.0,94.3,Low,monitor
+S100078,0.0,90.5,Low,monitor
+S100081,0.0,84.9,Low,monitor
+S100673,0.0,87.6,Low,monitor
+S100423,0.0,88.0,Low,monitor
+S100467,0.0,85.9,Low,monitor
+S100215,0.0,91.7,Low,monitor
+S100372,0.0,85.4,Low,monitor
+S101406,0.0,86.7,Low,monitor
+S101194,0.0,84.6,Low,monitor
+S100084,0.0,91.6,Low,monitor
+S101403,0.0,91.9,Low,monitor
+S100245,0.0,86.2,Low,monitor
+S101199,0.0,88.0,Low,monitor
+S101035,0.0,91.9,Low,monitor
+S100195,0.0,85.4,Low,monitor
+S101130,0.0,82.9,Low,monitor
+S101447,0.0,84.3,Low,monitor
+S100266,0.0,84.3,Low,monitor
+S101439,0.0,86.0,Low,monitor
+S101401,0.0,91.2,Low,monitor
+S100060,0.0,82.6,Low,monitor
+S100635,0.0,88.7,Low,monitor
+S100098,0.0,84.8,Low,monitor
+S100572,0.0,83.2,Low,monitor
+S100043,0.0,84.4,Low,monitor
+S100174,0.0,91.2,Low,monitor
+S101366,0.0,85.7,Low,monitor
+S100459,0.0,93.7,Low,monitor
+S100883,0.0,84.7,Low,monitor
+S100374,0.0,85.7,Low,monitor
+S100968,0.0,87.0,Low,monitor
+S100232,0.0,86.9,Low,monitor
+S101333,0.0,86.2,Low,monitor
+S100707,0.0,85.0,Low,monitor
+S101293,0.0,89.6,Low,monitor
+S101181,0.0,88.4,Low,monitor

@@ -1,0 +1,95 @@
+{
+  "dataset": {
+    "rows": 1500,
+    "at_risk_rate": 0.2353
+  },
+  "classification": {
+    "models": {
+      "Logistic Regression": {
+        "cv_roc_auc_mean": 0.9298,
+        "cv_roc_auc_std": 0.013,
+        "test_accuracy": 0.8733,
+        "test_precision": 0.6813,
+        "test_recall": 0.8732,
+        "test_f1": 0.7654,
+        "test_roc_auc": 0.9426
+      },
+      "Random Forest": {
+        "cv_roc_auc_mean": 0.9066,
+        "cv_roc_auc_std": 0.0148,
+        "test_accuracy": 0.8633,
+        "test_precision": 0.6744,
+        "test_recall": 0.8169,
+        "test_f1": 0.7389,
+        "test_roc_auc": 0.9239
+      },
+      "Gradient Boosting": {
+        "cv_roc_auc_mean": 0.899,
+        "cv_roc_auc_std": 0.0141,
+        "test_accuracy": 0.8933,
+        "test_precision": 0.8305,
+        "test_recall": 0.6901,
+        "test_f1": 0.7538,
+        "test_roc_auc": 0.9304
+      }
+    },
+    "best_model": "Logistic Regression",
+    "top_features": [
+      {
+        "feature": "midterm_score",
+        "importance": 0.1018
+      },
+      {
+        "feature": "past_failures",
+        "importance": 0.0621
+      },
+      {
+        "feature": "study_hours_weekly",
+        "importance": 0.0287
+      },
+      {
+        "feature": "previous_gpa",
+        "importance": 0.0177
+      },
+      {
+        "feature": "parental_education",
+        "importance": 0.0177
+      },
+      {
+        "feature": "internet_access",
+        "importance": 0.0071
+      },
+      {
+        "feature": "attendance_pct",
+        "importance": 0.005
+      },
+      {
+        "feature": "part_time_job",
+        "importance": 0.0048
+      }
+    ]
+  },
+  "regression": {
+    "models": {
+      "Linear Regression": {
+        "cv_r2_mean": 0.7438,
+        "test_r2": 0.762,
+        "test_mae": 4.012,
+        "test_rmse": 5.036
+      },
+      "Random Forest": {
+        "cv_r2_mean": 0.6657,
+        "test_r2": 0.6637,
+        "test_mae": 4.741,
+        "test_rmse": 5.986
+      },
+      "Gradient Boosting": {
+        "cv_r2_mean": 0.7155,
+        "test_r2": 0.7144,
+        "test_mae": 4.449,
+        "test_rmse": 5.516
+      }
+    },
+    "best_model": "Linear Regression"
+  }
+}
